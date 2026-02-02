@@ -1,7 +1,5 @@
 # Mon Jeu Unity
 
-Ce projet est basé sur [GameOffJam2022Cliche](https://github.com/pixel-brain/GameOffJam2022Cliche) de pixel-brain.
-
 ## Modifications apportées
 - [ ] Nouveaux niveaux
 - [ ] Nouveau système de jeu et thématique
@@ -22,8 +20,6 @@ Projet original : [pixel-brain](https://github.com/pixel-brain)
 ---
 
 # My Unity Game
-
-This project is based on [GameOffJam2022Cliche](https://github.com/pixel-brain/GameOffJam2022Cliche) by pixel-brain.
 
 ## Modifications
 - [ ] New levels
