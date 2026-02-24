@@ -3,7 +3,7 @@
 ## Modifications apportées
 - Nouveaux niveaux
 - Nouveau système de jeu et thématique
-- [ ] ...
+  ...
 
 ## Technologies
 - Unity 2021.3.x LTS
@@ -24,7 +24,7 @@ Projet original : [pixel-brain](https://github.com/pixel-brain)
 ## Modifications
 - New levels
 - New gameplay system and theme
-- [ ] ...
+  ...
 
 ## Technologies
 - Unity 2021.3.x LTS
