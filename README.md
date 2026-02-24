@@ -1,8 +1,8 @@
 # Mon Jeu Unity
 
 ## Modifications apportées
-- [ ] Nouveaux niveaux
-- [ ] Nouveau système de jeu et thématique
+- Nouveaux niveaux
+- Nouveau système de jeu et thématique
 - [ ] ...
 
 ## Technologies
@@ -22,8 +22,8 @@ Projet original : [pixel-brain](https://github.com/pixel-brain)
 # My Unity Game
 
 ## Modifications
-- [ ] New levels
-- [ ] New gameplay system and theme
+- New levels
+- New gameplay system and theme
 - [ ] ...
 
 ## Technologies
